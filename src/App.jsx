@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import {
   ArrowRight,
@@ -814,6 +813,3 @@ export default function App() {
     </main>
   );
 }
-
-
-
